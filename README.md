@@ -2,7 +2,7 @@
 
 A comprehensive analysis of customer churn patterns using ChurnZero data, featuring data exploration, churn prediction, and actionable insights.
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes customer churn data to identify patterns, risk factors, and opportunities for retention. The analysis includes:
 
@@ -12,7 +12,7 @@ This project analyzes customer churn data to identify patterns, risk factors, an
 - **Visualization**: Interactive charts and dashboards
 - **Recommendations**: Actionable insights for retention strategies
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
