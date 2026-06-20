@@ -49,27 +49,7 @@ Or use Jupyter notebook:
 jupyter notebook ChurnZero_Complete_Analysis.ipynb
 ```
 
-## 📁 Project Structure
-
-```
-ChurnZero-Analysis/
-├── README.md                              # Project documentation
-├── requirements.txt                       # Python dependencies
-├── churnzero_analysis.py                 # Main analysis script
-├── ChurnZero_Complete_Analysis.ipynb     # Jupyter notebook
-├── data/
-│   └── churnzero_data.csv                # Input data (add your data here)
-├── notebooks/
-│   ├── 01_exploratory_analysis.ipynb
-│   ├── 02_churn_modeling.ipynb
-│   └── 03_insights_and_recommendations.ipynb
-└── results/
-    ├── figures/                           # Generated visualizations
-    ├── models/                            # Saved models
-    └── reports/                           # Analysis reports
-```
-
-## 🔍 Analysis Sections
+##  Analysis Sections
 
 ### 1. Exploratory Data Analysis (EDA)
 - Dataset overview and structure
@@ -96,7 +76,7 @@ ChurnZero-Analysis/
 - Targeted interventions
 - Success metrics
 
-## 📊 Key Metrics
+## Key Metrics
 
 - **Churn Rate**: Percentage of customers lost in a period
 - **Retention Rate**: Percentage of customers retained
@@ -137,16 +117,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Koladiya Henil
+- GitHub: [@henilkoladiya1608](https://github.com/henilkoladiya1608)
+- Email: henilkoldiya99@gmail.com
 
-## 📞 Support
-
-For questions or issues, please:
-- Open an issue on GitHub
-- Check existing documentation
-- Review the notebooks for examples
 
 ## 🔗 References
 
